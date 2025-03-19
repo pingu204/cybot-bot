@@ -1,0 +1,14 @@
+hectometer:hm
+kilometer:km
+decameter:dam
+meter:m
+decimeter:dm
+centimeter:cm
+millimeter:mm
+micrometer:mum
+nanometer:nm
+inch:inch
+league:league
+mile:mi
+foot:ft
+yard:yd

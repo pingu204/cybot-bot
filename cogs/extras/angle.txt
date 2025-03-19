@@ -1,0 +1,5 @@
+degree:deg
+radian:rad
+grad:gradians
+arcminute:arcmin
+arcsecond:arcsec

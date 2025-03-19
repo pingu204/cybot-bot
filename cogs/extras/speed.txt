@@ -1,0 +1,5 @@
+meters per second:m/s
+feet per second:ft/s
+miles per hour:mph
+kilometers per hour:kph
+knot:knot

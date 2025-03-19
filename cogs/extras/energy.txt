@@ -1,0 +1,10 @@
+calorie:cal
+kilocalorie:kcal
+joule:J
+kilojoule:kJ
+watt-hour:wh
+kilowatt-hour:kwh
+electron volt:ev
+british thermal unit:btu
+therm:therm
+foot-pound:ft-lb

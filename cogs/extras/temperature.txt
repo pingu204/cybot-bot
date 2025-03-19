@@ -1,0 +1,6 @@
+Celsius:C
+Fahrenheit:F
+Kelvin:K
+Rankine:R
+Reaumur:Re
+Romer:Ro

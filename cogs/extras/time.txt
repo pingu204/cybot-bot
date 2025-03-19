@@ -1,0 +1,10 @@
+year:yr
+month:mon
+day:d
+week:w
+hour:h
+minute:min
+second:s
+millisecond:ms
+microsecond:mus
+nanosecond:ns
